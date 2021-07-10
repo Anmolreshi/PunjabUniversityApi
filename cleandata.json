@@ -2,6 +2,10 @@
   "name":"Hack The Mountains",
   "team_data":[
       {
+        "name":"anmol reshi",
+        "designation":"Head of AI, Earthbanc"
+      },
+      {
         "name":"Nikita Vasilev",
         "designation":"Data Engineer at Innotech (VTB)"
       },
