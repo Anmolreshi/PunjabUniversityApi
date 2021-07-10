@@ -3,68 +3,54 @@
       {
         "name":"Nikita Vasilev",
         "designation":"Data Engineer at Innotech (VTB)",
-      
-  
       },
       {
         "name":"Veronika Golubeva",
         "designation":"Senior data analyst at Sberbank",
-       
       },
       {
         "name":"Dmitrii Bormotov",
         "designation":"QA Automation Engineer",
-       
       },
       {
         "name":"Erzhan Torokulov",
         "designation":"Principal Engineer at Toptal Core",
-        
       },
      {
         "name":"Aayush Ahuja",
         "designation":"MTS Intern at Nutanix",
-       
       },
       {
         "name":"Aditya Jyoti Paul",
         "designation":"Founder,Cognitive Applications Research Lab",
-        
       },
       {
         "name":"Smriti Mishra",
         "designation":"Head of AI, Earthbanc",
-   
       },
-        {
+      {
         "name":"Praveen Kumar Purushothaman",
         "designation":"Full Stack JavaScript Specialist",
-       
       },
       {
         "name":"Shivam Kumar Singh",
         "designation":"Founder & CEO at Spaceonova",
-     
       },
       {
         "name":"Augustine Correa",
         "designation":"CTO at Auth0",
-      
       },
       {
         "name":"Gourav Sharma",
         "designation":"Associate Solution Architect, Red Hat",
-       
       },
       {
         "name":"Jai Sadana",
         "designation":"Founder & CEO Script Foundation & KaroVerify",
-        
       },
       {
         "name":"Sandeep Bajjuri",
         "designation":"Partnerships & Community Manager at Affinidi",
-  
       }
     ]
   }
